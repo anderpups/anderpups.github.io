@@ -233,3 +233,4 @@ https://anderpups.github.io/data/hotel-prices-20251231.json
 https://anderpups.github.io/data/hotel-prices-20260101.json
 https://anderpups.github.io/data/hotel-prices-20260102.json
 https://anderpups.github.io/data/hotel-prices-20260103.json
+https://anderpups.github.io/data/hotel-prices-20260104.json
